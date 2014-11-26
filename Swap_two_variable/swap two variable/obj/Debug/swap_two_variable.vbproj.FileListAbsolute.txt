@@ -1,0 +1,20 @@
+C:\Users\ir\Documents\Visual Studio 2013\Projects\swap two variable\swap two variable\bin\Debug\swap two variable.exe.config
+C:\Users\ir\Documents\Visual Studio 2013\Projects\swap two variable\swap two variable\obj\Debug\swap two variable.exe
+C:\Users\ir\Documents\Visual Studio 2013\Projects\swap two variable\swap two variable\obj\Debug\swap two variable.xml
+C:\Users\ir\Documents\Visual Studio 2013\Projects\swap two variable\swap two variable\obj\Debug\swap two variable.pdb
+C:\Users\ir\Documents\Visual Studio 2013\Projects\swap two variable\swap two variable\bin\Debug\swap two variable.exe
+C:\Users\ir\Documents\Visual Studio 2013\Projects\swap two variable\swap two variable\bin\Debug\swap two variable.pdb
+C:\Users\ir\Documents\Visual Studio 2013\Projects\swap two variable\swap two variable\bin\Debug\swap two variable.xml
+C:\Users\ir\Documents\Visual Studio 2013\Projects\swap two variable\swap two variable\obj\Debug\swap_two_variable.Form1.resources
+C:\Users\ir\Documents\Visual Studio 2013\Projects\swap two variable\swap two variable\obj\Debug\swap_two_variable.Resources.resources
+C:\Users\ir\Documents\Visual Studio 2013\Projects\swap two variable\swap two variable\obj\Debug\swap_two_variable.vbproj.GenerateResource.Cache
+C:\Users\ir\Desktop\assigment for interview intel\Swap_two_variable\swap two variable\bin\Debug\swap two variable.exe.config
+C:\Users\ir\Desktop\assigment for interview intel\Swap_two_variable\swap two variable\obj\Debug\swap two variable.exe
+C:\Users\ir\Desktop\assigment for interview intel\Swap_two_variable\swap two variable\obj\Debug\swap two variable.xml
+C:\Users\ir\Desktop\assigment for interview intel\Swap_two_variable\swap two variable\obj\Debug\swap two variable.pdb
+C:\Users\ir\Desktop\assigment for interview intel\Swap_two_variable\swap two variable\bin\Debug\swap two variable.exe
+C:\Users\ir\Desktop\assigment for interview intel\Swap_two_variable\swap two variable\bin\Debug\swap two variable.pdb
+C:\Users\ir\Desktop\assigment for interview intel\Swap_two_variable\swap two variable\bin\Debug\swap two variable.xml
+C:\Users\ir\Desktop\assigment for interview intel\Swap_two_variable\swap two variable\obj\Debug\swap_two_variable.Form1.resources
+C:\Users\ir\Desktop\assigment for interview intel\Swap_two_variable\swap two variable\obj\Debug\swap_two_variable.Resources.resources
+C:\Users\ir\Desktop\assigment for interview intel\Swap_two_variable\swap two variable\obj\Debug\swap_two_variable.vbproj.GenerateResource.Cache

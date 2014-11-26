@@ -1,0 +1,10 @@
+c:\users\ir\documents\visual studio 2013\Projects\swap two variable\swap two variable\obj\Debug\swap_two_variable.Form1.resources
+c:\users\ir\documents\visual studio 2013\Projects\swap two variable\swap two variable\obj\Debug\swap_two_variable.Resources.resources
+c:\users\ir\documents\visual studio 2013\Projects\swap two variable\swap two variable\obj\Debug\swap two variable.vbproj.GenerateResource.Cache
+c:\users\ir\documents\visual studio 2013\Projects\swap two variable\swap two variable\bin\Debug\swap two variable.exe.config
+c:\users\ir\documents\visual studio 2013\Projects\swap two variable\swap two variable\bin\Debug\swap two variable.exe
+c:\users\ir\documents\visual studio 2013\Projects\swap two variable\swap two variable\bin\Debug\swap two variable.pdb
+c:\users\ir\documents\visual studio 2013\Projects\swap two variable\swap two variable\bin\Debug\swap two variable.xml
+c:\users\ir\documents\visual studio 2013\Projects\swap two variable\swap two variable\obj\Debug\swap two variable.exe
+c:\users\ir\documents\visual studio 2013\Projects\swap two variable\swap two variable\obj\Debug\swap two variable.xml
+c:\users\ir\documents\visual studio 2013\Projects\swap two variable\swap two variable\obj\Debug\swap two variable.pdb
